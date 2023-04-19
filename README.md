@@ -3,7 +3,7 @@
 docker compose를 사용한 single node kafka 예제
 
 
-# 2023-04-19
+#### 2023-04-19 partition과 consume 순서
 
 ![image](https://user-images.githubusercontent.com/67408890/233030309-f4ecbda4-b707-4447-b01f-02f68997879e.png)
 ![image](https://user-images.githubusercontent.com/67408890/233030515-0ff228e7-1329-4149-8a3d-d96c4df9a5a9.png)
