@@ -6,7 +6,7 @@ const port = 3000;
 
 const kafka = new Kafka({
   clientId: 'my-app',
-  brokers: ['localhost:9092']
+  brokers: ['localhost:29092']
 })
 
 const producer = kafka.producer();
